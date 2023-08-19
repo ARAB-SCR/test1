@@ -11,7 +11,7 @@ iRay  | Programming
 
 
 local Release = "🇸🇦صناعه سعوديه"
-local NotificationDuration = 6.5
+local NotificationDuration = 12.1
 local RayfieldFolder = "Saudi industry🇸🇦 "
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
 local ConfigurationExtension = ".rfld"
