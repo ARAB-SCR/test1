@@ -10,7 +10,7 @@ iRay  | Programming
 
 
 
-local Release = "صناعه سعوديه"
+local Release = "🇸🇦صناعه سعوديه"
 local NotificationDuration = 6.5
 local RayfieldFolder = "Saudi industry🇸🇦 "
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
@@ -26,7 +26,7 @@ local RayfieldLibrary = {
 			TextColor = Color3.fromRGB(240, 240, 240),
 
 			Background = Color3.fromRGB(137, 200, 100),
-			Topbar = Color3.fromRGB(34, 34, 34),
+			Topbar = Color3.fromRGB(137, 200, 100),
 			Shadow = Color3.fromRGB(20, 20, 20),
 
 			NotificationBackground = Color3.fromRGB(137, 177, 223),
